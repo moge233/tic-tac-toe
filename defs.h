@@ -6,7 +6,7 @@
 #include <string.h>
 
 
-#define HELP_BOARD  "     |     |     \n"\
+#define HELP_BOARD   "     |     |     \n"\
                     "  A  |  B  |  C  \n"\
                     "_____|_____|_____\n"\
                     "     |     |     \n"\
